@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-color: #ea4585;
+}
+
+.button-primary {
+  background-color: var(--primary-color);
+}
+
+.button-primary:hover {
+  opacity: 0.6;
+  transition: opacity 0.4s ease;
+}
