@@ -1,0 +1,11 @@
+{
+    "Home": {
+      "title": "Oi mundo!"
+    },
+    "NotFound": {
+      "error": "Oopa! Algo deu errado",
+      "page": "Página não encontrada,",
+      "looks": "Parece que você se aventurou em território desconhecido. A página que você estava procurando não foi encontrada.",
+      "return": "Voltar à página inicial"
+    }
+  }
