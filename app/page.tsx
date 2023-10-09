@@ -1,6 +1,5 @@
-
-export default function Home() {
-  return (
-    <div>Oi BIANCA! :D</div>
-  );
+function Home() {
+  return <h1>Hello world!</h1>;
 }
+
+export default Home;
