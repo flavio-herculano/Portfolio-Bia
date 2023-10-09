@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "Portfólio de Bianca Herculano",
 };
 
-const locales = ["en", "pt-BR"];
+const locales = ["en", "pt"];
 
 interface RootLayoutProps {
   children: React.ReactNode;
