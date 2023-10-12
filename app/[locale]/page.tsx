@@ -1,7 +1,10 @@
-import { useTranslations } from "next-intl";
+import Header from "@/components/Header";
 function Home() {
-  const Home = useTranslations("Home");
-  return <h1>{Home("title")}</h1>;
+  return (
+    <div>
+      <Header />
+    </div>
+  );
 }
 
 export default Home;
