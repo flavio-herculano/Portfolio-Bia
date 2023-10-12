@@ -1,12 +1,15 @@
 {
-    "Home": {
-      "title": "Hello world!!"
-    },
-    "NotFound": {
-      "error": "Oops! something went wrong",
-      "page": "Page not found,", 
-      "looks": "It looks like you've ventured into uncharted territory. The page you were looking for was not found.",
-      "return": "Return to homepage"
-      
-    }
+  "NotFound": {
+    "error": "Oops! something went wrong",
+    "page": "Page not found,",
+    "looks": "It looks like you've ventured into uncharted territory. The page you were looking for was not found.",
+    "return": "Return to homepage"
+  },
+  "Header": {
+    "en": "English",
+    "pt": "Portuguese",
+    "about": "About me",
+    "contact me": "Contact me",
+    "contact": "Contact"
   }
+}
