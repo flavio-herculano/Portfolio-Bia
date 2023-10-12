@@ -2,6 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: "Itim";
+  src: url("/fonts/itim-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("/fonts/Inter-Variables.ttf") format("truetype");
+}
+
 :root {
   --primary-color: #ea4585;
 }
@@ -13,4 +23,8 @@
 .button-primary:hover {
   opacity: 0.6;
   transition: opacity 0.4s ease;
+}
+
+.logo {
+  font-family: "Itim";
 }
