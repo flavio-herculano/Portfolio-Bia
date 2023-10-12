@@ -3,7 +3,6 @@ import React from "react";
 import "./globals.css";
 import { notFound } from "next/navigation";
 import { NextIntlClientProvider } from "next-intl";
-import Header from "@/components/Header";
 
 export const metadata: Metadata = {
   title: "Bia Designer",
@@ -28,10 +27,7 @@ function LocaleLayout({ children, params: { locale } }: RootLayoutProps) {
     <html lang={locale}>
       <body>
         <NextIntlClientProvider locale={locale}>
-          <Header />
-
           {children}
-          <footer></footer>
         </NextIntlClientProvider>
       </body>
     </html>
