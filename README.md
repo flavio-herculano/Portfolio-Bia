@@ -1,4 +1,4 @@
-O projeto está em fase de desenvolvimento ultizando o Next v13, utilizando recursos como:
+O projeto está em fase de desenvolvimento utilizando o Next v13, e já conta com recursos como:
 
 • CSS responsivo
 
