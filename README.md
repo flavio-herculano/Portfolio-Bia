@@ -1,18 +1,18 @@
-O projeto está em fase de desenvolvimento utilizando o Next v13, e já conta com recursos como:
+O projeto está em fase de desenvolvimento utilizando o Next v13 🏆, e já conta com recursos como:
 
-• CSS responsivo
+• CSS responsivo 💯
 
-• Tradução das páginas em inglês e português
+• Tradução das páginas em inglês e português 🌍
 
-• Estrutura de pastas limpa
+• Estrutura de pastas limpa 📂
 
-• Código limpo
+• Código limpo 🧑‍💻
 
-• Componentes reutilizáveis
+• Componentes reutilizáveis ♻️
 
-• Página de erro customizada
+• Página de erro customizada ❌
 
-• Efeito de carregamento customizado
+• Efeito de carregamento customizado 🔃
 
 
 
