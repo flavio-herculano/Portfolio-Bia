@@ -1,4 +1,4 @@
-Este e um projeto desenvolvido com o Next v13, utilizando recursos como:
+O projeto está em fase de desenvolvimento ultizando o Next v13, utilizando recursos como:
 
 • CSS responsivo
 
@@ -15,4 +15,4 @@ Este e um projeto desenvolvido com o Next v13, utilizando recursos como:
 • Efeito de carregamento customizado
 
 
-O projeto está em desenvolvimento mas conta com tecnologias e recursos atuais.
+
